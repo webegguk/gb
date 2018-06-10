@@ -1,6 +1,6 @@
 ---
 title: "Hot Snakes"
-date: "2018-06-08"
+date: "2017-07-09"
 ---
 
 Hot Snakes are a punk band from the USA.
