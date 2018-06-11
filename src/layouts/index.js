@@ -23,9 +23,10 @@ export default ({ children, data }) => (
         {data.site.siteMetadata.title}
       </g.H3>
     </Link>
-    <Link className={linkStyle} to={`/about/`}>
-      About
-    </Link>
+    <div className={linkStyle}>
+      <Link to={`/about/`}>About</Link>{' '}
+      <Link to={`/contact/`}>Contact</Link>
+    </div>
     {children()}
   </g.Div>
 );
