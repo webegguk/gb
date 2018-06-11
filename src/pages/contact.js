@@ -20,6 +20,9 @@ export default ({ data }) => (
         </label>
       </p>
       <p>
+          <textarea name="message" />
+      </p>
+      <p>
         <button type="submit">Send</button>
       </p>
     </form>
